@@ -1,5 +1,5 @@
 * {
-     text-align: center;
+    text-align: center;
 }
 
 body {
@@ -12,6 +12,10 @@ h1 {
     color: #010118;
     font-family: fantasy;
     font-size: 60px;
+}
+
+p {
+    text-align: left;
 }
 
 #rot {
